@@ -68,6 +68,11 @@
     font-style: normal;
   }
 
+  html {
+    overflow-x: hidden;
+    background-color: var(--color-nav-bg);
+  }
+
   body {
     overflow-x: hidden;
   }
