@@ -68,16 +68,6 @@
     font-style: normal;
   }
 
-  html {
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* IE and old Edge */
-    background-color: var(--color-nav-bg);
-  }
-
-  html::-webkit-scrollbar {
-    display: none; /* Chrome, Safari, and Opera */
-  }
-
   body {
     overflow-x: hidden;
   }

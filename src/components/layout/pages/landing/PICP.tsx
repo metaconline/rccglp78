@@ -27,7 +27,7 @@ const PICP = () => {
           </TextReveal>
 
           {/* Heading */}
-          <div className="flex flex-col gap-1">
+          <div className="flex flex-col gap-1 justify-center items-center sm:items-start">
             <TextReveal style="bg-green-600">
               <h4 className="text-2xl font-semibold text-center">
                 Meet Our Pastor
@@ -35,7 +35,7 @@ const PICP = () => {
             </TextReveal>
             <TextReveal style="bg-green-600">
               <h6 className="text-sm font-medium text-center">
-                Pst. Duraola Olododo, PICP LP78
+                Pst & Pst (Mrs) Adeniyi, PICP LP78
               </h6>
             </TextReveal>
           </div>
@@ -43,11 +43,10 @@ const PICP = () => {
           {/* Content */}
           <TextReveal style="bg-green-600">
             <p className="text-sm text-center font-light text-gray-100">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel
-              architecto facere sit, eligendi officiis voluptas eum laborum,
-              odit sint adipisci, totam pariatur aspernatur! Esse dolor aliquid,
-              minus eveniet ea, perspiciatis, deleniti libero at provident
-              placeat quo nam assumenda. Est, culpa.
+              This is our Provincial Pastor and his wife, servants of God with
+              hearts fully committed to the gospel. Through sound teaching,
+              leadership, and prayer, they lead RCCP LP78 Breakthrough Cathedral
+              into growth, faith, and impact.
             </p>
           </TextReveal>
 

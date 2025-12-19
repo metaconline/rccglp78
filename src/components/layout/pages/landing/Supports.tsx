@@ -13,7 +13,7 @@ const Supports = () => {
           vectorImage={ChurchBuilding}
           actions={[
             {
-              label: "Click Her To Support",
+              label: "Click Here To Support",
               btnAction: () => {},
             },
           ]}
@@ -25,7 +25,7 @@ const Supports = () => {
           vectorImage={MediaFolder}
           actions={[
             {
-              label: "Click Her To Support",
+              label: "Click Here To Support",
               btnAction: () => {},
             },
           ]}
